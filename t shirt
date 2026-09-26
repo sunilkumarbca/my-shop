@@ -1,18 +1,16 @@
 <!DOCTYPE html>
 <html>
 <head>
-    <title>My T-Shirt</title>
+    <title>Sunil T-Shirt Shop</title>
 </head>
 <body>
 
-<h1>My T-Shirt</h1>
+<h1>Welcome to My T-Shirt Shop</h1>
 
 <h2>Stylish T-Shirt</h2>
 <p>Price: ₹499</p>
 
-<a href="order.html">
-    <button>Order Now</button>
-</a>
+<button>Buy Now</button>
 
 </body>
 </html>
